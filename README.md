@@ -15,13 +15,13 @@ git clone <repository-url>
 ```bash
 cd task-manager-app
 ```
-3. Install Dependecies
+3. Install Dependencies
 ``` bash
 npm install express sqlite3
 ```
 4. Usage
 
-  Start the file 'server.js' file which is located in src directory make sure before run th below command you must move to src directory 
+  Start the file 'server.js' file which is located in src directory. Make sure before run the below command you must move to src directory 
 ```bash
 cd src
 node server.js
